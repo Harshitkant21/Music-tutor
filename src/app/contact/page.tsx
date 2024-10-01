@@ -1,6 +1,8 @@
+'use client'
+
 function page() {
   return (
-    <div>test2</div>
+    <div>Hello World</div>
   )
 }
 
