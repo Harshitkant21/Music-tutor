@@ -1,7 +1,7 @@
 "use client"; // when i want to use react hooks we have to write this line to make this file work for client side manupulation or DOM manupulation
 
 import React, { useState } from "react";
-import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
+import { HoveredLink, Menu, MenuItem } from "./ui/navbar-menu";
 import { cn } from "@/utils/cn";
 import Link from "next/link";
 
